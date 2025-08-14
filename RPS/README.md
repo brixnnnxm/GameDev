@@ -1,5 +1,4 @@
-# Rock 🪨, Paper 📃, Scissors ✂️, SHOOT!
-🚧 Under Construction – Greatness Loading... 🚀
+# Rock 🪨, Paper 📃, Scissors ✂️, SHOOT!<br />🚧 Under Construction – Greatness Loading... 🚀
 
 ## Description 🤓
 text
@@ -8,7 +7,7 @@ text
 text
 
 ## Stack 🧮
-Here's a list of which languages the program is currently written in:
+Here's a list of which languages the program is currently written in:<br />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
